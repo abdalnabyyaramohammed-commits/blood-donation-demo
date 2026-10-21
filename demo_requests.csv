@@ -1,0 +1,1827 @@
+date,governorate,blood_type,request_count
+2021-01-01,Cairo,O-,4
+2021-01-02,Dakahlia,AB+,6
+2021-01-03,Cairo,B+,2
+2021-01-04,Giza,AB+,4
+2021-01-05,Gharbia,B-,5
+2021-01-06,Dakahlia,A-,7
+2021-01-07,Cairo,AB-,4
+2021-01-08,Dakahlia,A+,5
+2021-01-09,Gharbia,B-,4
+2021-01-10,Gharbia,AB-,6
+2021-01-11,Dakahlia,O-,2
+2021-01-12,Dakahlia,AB+,6
+2021-01-13,Dakahlia,O-,3
+2021-01-14,Dakahlia,O+,9
+2021-01-15,Kafr El Sheikh,A-,3
+2021-01-16,Dakahlia,O+,4
+2021-01-17,Cairo,B+,6
+2021-01-18,Giza,AB-,7
+2021-01-19,Alexandria,A-,4
+2021-01-20,Cairo,AB+,7
+2021-01-21,Cairo,AB-,9
+2021-01-22,Kafr El Sheikh,O-,2
+2021-01-23,Alexandria,O-,6
+2021-01-24,Alexandria,O+,9
+2021-01-25,Alexandria,AB+,10
+2021-01-26,Kafr El Sheikh,O-,5
+2021-01-27,Giza,A+,6
+2021-01-28,Cairo,O-,7
+2021-01-29,Gharbia,A-,6
+2021-01-30,Kafr El Sheikh,B-,8
+2021-01-31,Kafr El Sheikh,O-,4
+2021-02-01,Cairo,AB-,8
+2021-02-02,Alexandria,O+,4
+2021-02-03,Gharbia,AB-,4
+2021-02-04,Giza,AB+,6
+2021-02-05,Alexandria,A-,6
+2021-02-06,Gharbia,O-,6
+2021-02-07,Cairo,AB-,6
+2021-02-08,Gharbia,AB-,6
+2021-02-09,Alexandria,B-,2
+2021-02-10,Cairo,O-,9
+2021-02-11,Cairo,B-,3
+2021-02-12,Kafr El Sheikh,A-,9
+2021-02-13,Dakahlia,A-,6
+2021-02-14,Giza,AB-,3
+2021-02-15,Giza,AB-,8
+2021-02-16,Giza,A-,11
+2021-02-17,Kafr El Sheikh,AB-,3
+2021-02-18,Gharbia,O-,3
+2021-02-19,Giza,AB+,3
+2021-02-20,Dakahlia,O-,8
+2021-02-21,Kafr El Sheikh,A-,9
+2021-02-22,Dakahlia,B-,8
+2021-02-23,Dakahlia,AB+,6
+2021-02-24,Alexandria,B+,3
+2021-02-25,Gharbia,A+,9
+2021-02-26,Giza,B-,4
+2021-02-27,Gharbia,B+,6
+2021-02-28,Dakahlia,A-,2
+2021-03-01,Cairo,B+,2
+2021-03-02,Gharbia,B-,4
+2021-03-03,Dakahlia,O-,4
+2021-03-04,Cairo,B-,2
+2021-03-05,Dakahlia,B-,4
+2021-03-06,Alexandria,B-,7
+2021-03-07,Gharbia,AB+,7
+2021-03-08,Cairo,B+,7
+2021-03-09,Cairo,O+,5
+2021-03-10,Alexandria,B-,5
+2021-03-11,Alexandria,B-,2
+2021-03-12,Giza,A+,9
+2021-03-13,Cairo,O-,6
+2021-03-14,Dakahlia,B-,2
+2021-03-15,Kafr El Sheikh,A-,5
+2021-03-16,Cairo,A-,9
+2021-03-17,Giza,B+,2
+2021-03-18,Cairo,O+,7
+2021-03-19,Alexandria,A+,5
+2021-03-20,Giza,A+,10
+2021-03-21,Cairo,AB+,6
+2021-03-22,Gharbia,B-,4
+2021-03-23,Gharbia,O-,10
+2021-03-24,Gharbia,O+,7
+2021-03-25,Alexandria,AB-,4
+2021-03-26,Alexandria,B+,10
+2021-03-27,Gharbia,AB-,6
+2021-03-28,Dakahlia,AB+,5
+2021-03-29,Dakahlia,B+,4
+2021-03-30,Cairo,B+,5
+2021-03-31,Gharbia,O-,10
+2021-04-01,Giza,AB+,8
+2021-04-02,Dakahlia,B-,5
+2021-04-03,Dakahlia,O+,6
+2021-04-04,Kafr El Sheikh,B+,6
+2021-04-05,Kafr El Sheikh,A-,11
+2021-04-06,Kafr El Sheikh,O-,6
+2021-04-07,Giza,O+,10
+2021-04-08,Gharbia,B-,4
+2021-04-09,Kafr El Sheikh,O-,10
+2021-04-10,Kafr El Sheikh,B+,9
+2021-04-11,Alexandria,AB-,5
+2021-04-12,Alexandria,A+,4
+2021-04-13,Kafr El Sheikh,AB-,8
+2021-04-14,Giza,A-,5
+2021-04-15,Gharbia,A-,6
+2021-04-16,Cairo,O+,8
+2021-04-17,Kafr El Sheikh,A-,4
+2021-04-18,Cairo,B-,2
+2021-04-19,Cairo,O-,10
+2021-04-20,Alexandria,O-,5
+2021-04-21,Kafr El Sheikh,B-,6
+2021-04-22,Alexandria,A+,0
+2021-04-23,Kafr El Sheikh,B+,6
+2021-04-24,Dakahlia,AB+,5
+2021-04-25,Alexandria,B+,1
+2021-04-26,Kafr El Sheikh,AB-,6
+2021-04-27,Kafr El Sheikh,O-,10
+2021-04-28,Alexandria,AB+,2
+2021-04-29,Giza,AB+,8
+2021-04-30,Cairo,AB+,1
+2021-05-01,Cairo,A-,6
+2021-05-02,Giza,AB+,7
+2021-05-03,Alexandria,O-,4
+2021-05-04,Kafr El Sheikh,AB-,9
+2021-05-05,Alexandria,O+,9
+2021-05-06,Cairo,O+,2
+2021-05-07,Gharbia,B-,5
+2021-05-08,Dakahlia,B+,2
+2021-05-09,Cairo,O-,5
+2021-05-10,Cairo,B-,11
+2021-05-11,Kafr El Sheikh,AB-,4
+2021-05-12,Dakahlia,AB-,2
+2021-05-13,Gharbia,A+,5
+2021-05-14,Cairo,B+,10
+2021-05-15,Giza,B+,4
+2021-05-16,Cairo,A-,4
+2021-05-17,Gharbia,O+,2
+2021-05-18,Cairo,O-,6
+2021-05-19,Kafr El Sheikh,O-,2
+2021-05-20,Gharbia,A-,1
+2021-05-21,Gharbia,B-,10
+2021-05-22,Alexandria,A-,4
+2021-05-23,Gharbia,A+,7
+2021-05-24,Cairo,AB+,5
+2021-05-25,Cairo,O+,5
+2021-05-26,Giza,A+,1
+2021-05-27,Giza,AB-,9
+2021-05-28,Alexandria,A+,7
+2021-05-29,Dakahlia,O+,4
+2021-05-30,Dakahlia,A+,5
+2021-05-31,Kafr El Sheikh,B-,11
+2021-06-01,Gharbia,A+,7
+2021-06-02,Kafr El Sheikh,B-,3
+2021-06-03,Giza,B-,9
+2021-06-04,Alexandria,AB+,4
+2021-06-05,Alexandria,O+,3
+2021-06-06,Kafr El Sheikh,O-,7
+2021-06-07,Alexandria,B+,3
+2021-06-08,Kafr El Sheikh,O-,8
+2021-06-09,Gharbia,B-,3
+2021-06-10,Kafr El Sheikh,A+,3
+2021-06-11,Alexandria,AB+,9
+2021-06-12,Cairo,AB-,0
+2021-06-13,Cairo,B+,6
+2021-06-14,Alexandria,AB+,3
+2021-06-15,Gharbia,B-,8
+2021-06-16,Alexandria,A-,10
+2021-06-17,Gharbia,B-,10
+2021-06-18,Dakahlia,B-,0
+2021-06-19,Alexandria,B+,9
+2021-06-20,Gharbia,O-,1
+2021-06-21,Alexandria,B-,15
+2021-06-22,Giza,AB-,6
+2021-06-23,Dakahlia,A+,4
+2021-06-24,Giza,B+,3
+2021-06-25,Dakahlia,O-,6
+2021-06-26,Kafr El Sheikh,O-,6
+2021-06-27,Alexandria,O-,7
+2021-06-28,Giza,A+,8
+2021-06-29,Cairo,O+,11
+2021-06-30,Gharbia,B+,4
+2021-07-01,Cairo,A+,4
+2021-07-02,Cairo,A+,9
+2021-07-03,Cairo,O+,4
+2021-07-04,Dakahlia,AB+,7
+2021-07-05,Kafr El Sheikh,AB+,2
+2021-07-06,Kafr El Sheikh,O-,3
+2021-07-07,Dakahlia,A+,7
+2021-07-08,Cairo,A+,8
+2021-07-09,Kafr El Sheikh,O-,5
+2021-07-10,Cairo,AB+,4
+2021-07-11,Alexandria,O+,3
+2021-07-12,Kafr El Sheikh,AB+,3
+2021-07-13,Gharbia,A-,5
+2021-07-14,Kafr El Sheikh,AB+,3
+2021-07-15,Alexandria,O-,3
+2021-07-16,Cairo,A+,6
+2021-07-17,Cairo,A-,4
+2021-07-18,Kafr El Sheikh,B+,6
+2021-07-19,Gharbia,B-,2
+2021-07-20,Gharbia,AB-,3
+2021-07-21,Kafr El Sheikh,A-,4
+2021-07-22,Cairo,O-,5
+2021-07-23,Gharbia,A-,1
+2021-07-24,Alexandria,A-,5
+2021-07-25,Kafr El Sheikh,O-,8
+2021-07-26,Kafr El Sheikh,B-,13
+2021-07-27,Alexandria,AB+,8
+2021-07-28,Giza,B-,6
+2021-07-29,Giza,B+,4
+2021-07-30,Kafr El Sheikh,AB+,3
+2021-07-31,Alexandria,O+,6
+2021-08-01,Cairo,A+,4
+2021-08-02,Giza,O-,11
+2021-08-03,Cairo,A-,5
+2021-08-04,Cairo,O-,4
+2021-08-05,Dakahlia,O-,2
+2021-08-06,Giza,O-,5
+2021-08-07,Alexandria,AB-,3
+2021-08-08,Kafr El Sheikh,O-,5
+2021-08-09,Kafr El Sheikh,O+,3
+2021-08-10,Dakahlia,AB-,6
+2021-08-11,Gharbia,O-,6
+2021-08-12,Giza,B+,4
+2021-08-13,Kafr El Sheikh,O+,9
+2021-08-14,Alexandria,O-,4
+2021-08-15,Cairo,AB-,4
+2021-08-16,Kafr El Sheikh,A+,3
+2021-08-17,Kafr El Sheikh,A-,5
+2021-08-18,Alexandria,A-,2
+2021-08-19,Alexandria,AB+,2
+2021-08-20,Giza,B-,3
+2021-08-21,Dakahlia,O+,7
+2021-08-22,Cairo,B+,5
+2021-08-23,Cairo,A-,3
+2021-08-24,Dakahlia,AB+,9
+2021-08-25,Cairo,A-,6
+2021-08-26,Kafr El Sheikh,O-,5
+2021-08-27,Gharbia,A+,5
+2021-08-28,Cairo,B-,4
+2021-08-29,Kafr El Sheikh,O-,2
+2021-08-30,Dakahlia,AB+,4
+2021-08-31,Giza,O+,5
+2021-09-01,Kafr El Sheikh,B-,5
+2021-09-02,Gharbia,O+,2
+2021-09-03,Cairo,AB-,2
+2021-09-04,Dakahlia,AB+,3
+2021-09-05,Giza,A+,2
+2021-09-06,Dakahlia,O-,4
+2021-09-07,Dakahlia,A+,2
+2021-09-08,Dakahlia,B+,5
+2021-09-09,Kafr El Sheikh,AB-,1
+2021-09-10,Gharbia,O+,2
+2021-09-11,Kafr El Sheikh,AB+,4
+2021-09-12,Cairo,B-,3
+2021-09-13,Alexandria,B-,2
+2021-09-14,Cairo,O-,2
+2021-09-15,Giza,B+,5
+2021-09-16,Kafr El Sheikh,O+,6
+2021-09-17,Alexandria,A+,5
+2021-09-18,Alexandria,AB-,4
+2021-09-19,Giza,AB-,9
+2021-09-20,Giza,AB-,3
+2021-09-21,Dakahlia,B-,5
+2021-09-22,Kafr El Sheikh,AB-,1
+2021-09-23,Gharbia,B-,4
+2021-09-24,Alexandria,AB+,5
+2021-09-25,Alexandria,O-,3
+2021-09-26,Giza,AB-,5
+2021-09-27,Kafr El Sheikh,AB-,5
+2021-09-28,Dakahlia,O-,6
+2021-09-29,Cairo,A-,6
+2021-09-30,Gharbia,AB+,7
+2021-10-01,Kafr El Sheikh,AB-,4
+2021-10-02,Gharbia,AB-,2
+2021-10-03,Alexandria,A-,4
+2021-10-04,Giza,O+,1
+2021-10-05,Gharbia,A-,2
+2021-10-06,Kafr El Sheikh,B-,4
+2021-10-07,Alexandria,AB-,7
+2021-10-08,Gharbia,B+,7
+2021-10-09,Kafr El Sheikh,A-,2
+2021-10-10,Kafr El Sheikh,AB-,4
+2021-10-11,Giza,B+,2
+2021-10-12,Kafr El Sheikh,O+,4
+2021-10-13,Gharbia,O-,2
+2021-10-14,Gharbia,B+,3
+2021-10-15,Cairo,AB-,2
+2021-10-16,Cairo,A-,2
+2021-10-17,Dakahlia,O-,3
+2021-10-18,Giza,A-,3
+2021-10-19,Dakahlia,O-,2
+2021-10-20,Gharbia,O+,7
+2021-10-21,Alexandria,B+,2
+2021-10-22,Cairo,O+,3
+2021-10-23,Giza,AB-,2
+2021-10-24,Giza,AB-,7
+2021-10-25,Alexandria,B-,6
+2021-10-26,Cairo,A-,3
+2021-10-27,Cairo,AB-,3
+2021-10-28,Giza,A+,4
+2021-10-29,Alexandria,B+,3
+2021-10-30,Alexandria,A-,5
+2021-10-31,Kafr El Sheikh,A+,4
+2021-11-01,Gharbia,A+,2
+2021-11-02,Dakahlia,A+,6
+2021-11-03,Gharbia,O-,2
+2021-11-04,Dakahlia,O+,4
+2021-11-05,Giza,O-,2
+2021-11-06,Cairo,A+,2
+2021-11-07,Giza,O-,5
+2021-11-08,Giza,AB+,3
+2021-11-09,Gharbia,O+,6
+2021-11-10,Cairo,O+,4
+2021-11-11,Kafr El Sheikh,B+,3
+2021-11-12,Kafr El Sheikh,AB-,4
+2021-11-13,Cairo,AB-,5
+2021-11-14,Giza,B-,4
+2021-11-15,Kafr El Sheikh,B-,4
+2021-11-16,Kafr El Sheikh,A-,3
+2021-11-17,Alexandria,A-,5
+2021-11-18,Dakahlia,O-,2
+2021-11-19,Alexandria,AB-,2
+2021-11-20,Cairo,AB+,0
+2021-11-21,Cairo,AB-,3
+2021-11-22,Dakahlia,B-,2
+2021-11-23,Alexandria,A-,2
+2021-11-24,Alexandria,O-,5
+2021-11-25,Dakahlia,O-,2
+2021-11-26,Alexandria,A-,5
+2021-11-27,Alexandria,O+,4
+2021-11-28,Dakahlia,B-,2
+2021-11-29,Cairo,AB-,5
+2021-11-30,Giza,A+,4
+2021-12-01,Giza,B-,3
+2021-12-02,Cairo,A+,7
+2021-12-03,Kafr El Sheikh,O+,4
+2021-12-04,Gharbia,B-,3
+2021-12-05,Cairo,B+,3
+2021-12-06,Alexandria,AB-,3
+2021-12-07,Giza,O-,4
+2021-12-08,Kafr El Sheikh,B+,3
+2021-12-09,Kafr El Sheikh,AB-,3
+2021-12-10,Alexandria,AB-,8
+2021-12-11,Gharbia,B-,3
+2021-12-12,Giza,O+,3
+2021-12-13,Giza,A-,3
+2021-12-14,Giza,O-,4
+2021-12-15,Gharbia,B-,1
+2021-12-16,Gharbia,A+,4
+2021-12-17,Kafr El Sheikh,O-,4
+2021-12-18,Giza,O+,3
+2021-12-19,Giza,O+,4
+2021-12-20,Cairo,A-,3
+2021-12-21,Gharbia,O+,10
+2021-12-22,Cairo,AB-,3
+2021-12-23,Gharbia,O-,8
+2021-12-24,Kafr El Sheikh,B+,5
+2021-12-25,Giza,O-,3
+2021-12-26,Dakahlia,AB-,5
+2021-12-27,Giza,B+,3
+2021-12-28,Kafr El Sheikh,A-,3
+2021-12-29,Kafr El Sheikh,O-,3
+2021-12-30,Giza,AB-,0
+2021-12-31,Gharbia,A+,2
+2022-01-01,Giza,A-,7
+2022-01-02,Kafr El Sheikh,O+,4
+2022-01-03,Dakahlia,A-,5
+2022-01-04,Alexandria,A-,6
+2022-01-05,Kafr El Sheikh,AB+,2
+2022-01-06,Alexandria,O+,3
+2022-01-07,Cairo,B+,3
+2022-01-08,Gharbia,AB-,9
+2022-01-09,Gharbia,AB-,9
+2022-01-10,Kafr El Sheikh,AB+,3
+2022-01-11,Giza,AB-,2
+2022-01-12,Kafr El Sheikh,A-,6
+2022-01-13,Alexandria,AB+,5
+2022-01-14,Kafr El Sheikh,A+,3
+2022-01-15,Dakahlia,AB-,6
+2022-01-16,Kafr El Sheikh,O+,4
+2022-01-17,Gharbia,O+,3
+2022-01-18,Cairo,A+,3
+2022-01-19,Cairo,O-,4
+2022-01-20,Gharbia,B-,7
+2022-01-21,Gharbia,A+,8
+2022-01-22,Kafr El Sheikh,AB+,4
+2022-01-23,Kafr El Sheikh,AB+,1
+2022-01-24,Gharbia,B-,2
+2022-01-25,Gharbia,AB-,9
+2022-01-26,Alexandria,AB+,3
+2022-01-27,Kafr El Sheikh,A-,4
+2022-01-28,Kafr El Sheikh,AB+,5
+2022-01-29,Cairo,B+,8
+2022-01-30,Dakahlia,A+,3
+2022-01-31,Kafr El Sheikh,B+,6
+2022-02-01,Giza,O-,7
+2022-02-02,Dakahlia,AB+,7
+2022-02-03,Kafr El Sheikh,B+,1
+2022-02-04,Gharbia,B+,6
+2022-02-05,Gharbia,O+,4
+2022-02-06,Cairo,AB-,6
+2022-02-07,Kafr El Sheikh,O+,4
+2022-02-08,Cairo,AB+,7
+2022-02-09,Cairo,O-,6
+2022-02-10,Cairo,AB-,8
+2022-02-11,Gharbia,B-,7
+2022-02-12,Kafr El Sheikh,B+,7
+2022-02-13,Cairo,A+,8
+2022-02-14,Dakahlia,O+,7
+2022-02-15,Kafr El Sheikh,O-,4
+2022-02-16,Kafr El Sheikh,AB-,9
+2022-02-17,Cairo,B-,6
+2022-02-18,Gharbia,A-,8
+2022-02-19,Gharbia,AB-,6
+2022-02-20,Gharbia,A-,12
+2022-02-21,Gharbia,AB+,6
+2022-02-22,Kafr El Sheikh,B+,5
+2022-02-23,Alexandria,O+,1
+2022-02-24,Giza,O-,2
+2022-02-25,Kafr El Sheikh,A-,6
+2022-02-26,Gharbia,B+,7
+2022-02-27,Giza,O-,4
+2022-02-28,Gharbia,A+,5
+2022-03-01,Cairo,AB+,6
+2022-03-02,Dakahlia,A-,8
+2022-03-03,Kafr El Sheikh,B-,6
+2022-03-04,Kafr El Sheikh,A+,5
+2022-03-05,Giza,A-,11
+2022-03-06,Kafr El Sheikh,B-,5
+2022-03-07,Cairo,A+,1
+2022-03-08,Dakahlia,O+,4
+2022-03-09,Alexandria,AB+,6
+2022-03-10,Alexandria,B-,6
+2022-03-11,Cairo,B-,6
+2022-03-12,Dakahlia,O+,6
+2022-03-13,Gharbia,O+,4
+2022-03-14,Dakahlia,A+,8
+2022-03-15,Alexandria,AB-,8
+2022-03-16,Alexandria,B-,6
+2022-03-17,Kafr El Sheikh,O+,10
+2022-03-18,Kafr El Sheikh,O+,11
+2022-03-19,Cairo,AB-,6
+2022-03-20,Alexandria,AB-,8
+2022-03-21,Gharbia,A-,6
+2022-03-22,Gharbia,O+,4
+2022-03-23,Kafr El Sheikh,AB-,6
+2022-03-24,Cairo,B+,5
+2022-03-25,Kafr El Sheikh,A-,4
+2022-03-26,Kafr El Sheikh,AB+,10
+2022-03-27,Alexandria,B+,4
+2022-03-28,Gharbia,AB-,1
+2022-03-29,Cairo,B-,8
+2022-03-30,Dakahlia,A-,6
+2022-03-31,Alexandria,B-,5
+2022-04-01,Giza,O+,3
+2022-04-02,Gharbia,O+,0
+2022-04-03,Dakahlia,B+,5
+2022-04-04,Dakahlia,O+,4
+2022-04-05,Alexandria,A+,12
+2022-04-06,Kafr El Sheikh,O-,5
+2022-04-07,Gharbia,O+,4
+2022-04-08,Gharbia,A+,3
+2022-04-09,Gharbia,AB-,6
+2022-04-10,Alexandria,B-,3
+2022-04-11,Cairo,O-,3
+2022-04-12,Cairo,A-,3
+2022-04-13,Alexandria,O-,4
+2022-04-14,Alexandria,O+,6
+2022-04-15,Cairo,B+,5
+2022-04-16,Gharbia,B-,5
+2022-04-17,Giza,AB-,5
+2022-04-18,Cairo,A-,4
+2022-04-19,Giza,O-,10
+2022-04-20,Dakahlia,A-,4
+2022-04-21,Giza,A-,16
+2022-04-22,Gharbia,AB+,8
+2022-04-23,Gharbia,B-,10
+2022-04-24,Alexandria,A+,5
+2022-04-25,Alexandria,O-,5
+2022-04-26,Cairo,A-,6
+2022-04-27,Dakahlia,A+,6
+2022-04-28,Gharbia,AB+,5
+2022-04-29,Giza,O-,3
+2022-04-30,Cairo,A+,9
+2022-05-01,Giza,B-,8
+2022-05-02,Dakahlia,O-,5
+2022-05-03,Kafr El Sheikh,O-,5
+2022-05-04,Giza,A-,14
+2022-05-05,Giza,AB+,10
+2022-05-06,Giza,O+,6
+2022-05-07,Giza,AB-,8
+2022-05-08,Gharbia,AB-,4
+2022-05-09,Kafr El Sheikh,O+,10
+2022-05-10,Giza,B-,4
+2022-05-11,Dakahlia,A+,4
+2022-05-12,Dakahlia,AB-,6
+2022-05-13,Alexandria,AB-,6
+2022-05-14,Gharbia,O+,8
+2022-05-15,Cairo,O-,14
+2022-05-16,Alexandria,B+,5
+2022-05-17,Dakahlia,O-,11
+2022-05-18,Alexandria,A+,6
+2022-05-19,Alexandria,O-,4
+2022-05-20,Giza,A-,4
+2022-05-21,Giza,AB-,5
+2022-05-22,Gharbia,AB-,5
+2022-05-23,Giza,AB-,6
+2022-05-24,Cairo,O-,0
+2022-05-25,Kafr El Sheikh,AB+,8
+2022-05-26,Gharbia,A-,8
+2022-05-27,Alexandria,AB+,4
+2022-05-28,Cairo,B+,4
+2022-05-29,Cairo,AB+,8
+2022-05-30,Kafr El Sheikh,B-,6
+2022-05-31,Cairo,A+,5
+2022-06-01,Dakahlia,AB-,6
+2022-06-02,Giza,A+,11
+2022-06-03,Giza,B+,1
+2022-06-04,Kafr El Sheikh,AB+,11
+2022-06-05,Dakahlia,O-,2
+2022-06-06,Gharbia,B+,7
+2022-06-07,Gharbia,B+,4
+2022-06-08,Alexandria,B+,5
+2022-06-09,Giza,AB+,2
+2022-06-10,Cairo,A-,9
+2022-06-11,Gharbia,AB+,8
+2022-06-12,Gharbia,O+,5
+2022-06-13,Cairo,A+,8
+2022-06-14,Alexandria,O-,7
+2022-06-15,Cairo,AB+,5
+2022-06-16,Giza,AB-,6
+2022-06-17,Cairo,AB+,5
+2022-06-18,Dakahlia,O-,5
+2022-06-19,Gharbia,AB-,4
+2022-06-20,Gharbia,O-,5
+2022-06-21,Cairo,B+,8
+2022-06-22,Kafr El Sheikh,A-,2
+2022-06-23,Dakahlia,AB-,6
+2022-06-24,Kafr El Sheikh,A-,6
+2022-06-25,Alexandria,A+,5
+2022-06-26,Gharbia,A-,11
+2022-06-27,Alexandria,B+,7
+2022-06-28,Kafr El Sheikh,A+,1
+2022-06-29,Gharbia,AB-,5
+2022-06-30,Dakahlia,AB+,6
+2022-07-01,Cairo,A-,4
+2022-07-02,Giza,B+,6
+2022-07-03,Giza,O-,6
+2022-07-04,Giza,O-,4
+2022-07-05,Gharbia,A+,1
+2022-07-06,Dakahlia,AB+,9
+2022-07-07,Cairo,B+,10
+2022-07-08,Gharbia,B+,6
+2022-07-09,Gharbia,AB+,5
+2022-07-10,Kafr El Sheikh,O-,2
+2022-07-11,Cairo,AB+,6
+2022-07-12,Giza,O-,7
+2022-07-13,Gharbia,O+,4
+2022-07-14,Dakahlia,O+,12
+2022-07-15,Giza,O+,7
+2022-07-16,Cairo,O+,7
+2022-07-17,Kafr El Sheikh,B+,6
+2022-07-18,Gharbia,O-,4
+2022-07-19,Giza,O-,4
+2022-07-20,Alexandria,AB+,6
+2022-07-21,Gharbia,AB-,6
+2022-07-22,Kafr El Sheikh,O-,7
+2022-07-23,Cairo,A-,4
+2022-07-24,Gharbia,A+,3
+2022-07-25,Cairo,O-,4
+2022-07-26,Gharbia,AB+,7
+2022-07-27,Gharbia,AB-,3
+2022-07-28,Kafr El Sheikh,AB+,4
+2022-07-29,Alexandria,AB+,6
+2022-07-30,Dakahlia,A+,3
+2022-07-31,Alexandria,B+,5
+2022-08-01,Cairo,A+,3
+2022-08-02,Kafr El Sheikh,B-,2
+2022-08-03,Kafr El Sheikh,A+,5
+2022-08-04,Cairo,O+,4
+2022-08-05,Cairo,B+,5
+2022-08-06,Cairo,AB-,6
+2022-08-07,Gharbia,A+,4
+2022-08-08,Giza,A+,6
+2022-08-09,Kafr El Sheikh,B-,3
+2022-08-10,Kafr El Sheikh,O+,5
+2022-08-11,Kafr El Sheikh,O+,5
+2022-08-12,Cairo,AB+,1
+2022-08-13,Dakahlia,AB+,5
+2022-08-14,Kafr El Sheikh,AB-,4
+2022-08-15,Alexandria,AB-,5
+2022-08-16,Alexandria,AB-,5
+2022-08-17,Kafr El Sheikh,A+,6
+2022-08-18,Kafr El Sheikh,B-,6
+2022-08-19,Cairo,O+,2
+2022-08-20,Kafr El Sheikh,B-,5
+2022-08-21,Dakahlia,A-,2
+2022-08-22,Gharbia,AB-,9
+2022-08-23,Giza,B+,4
+2022-08-24,Dakahlia,AB+,1
+2022-08-25,Dakahlia,AB+,6
+2022-08-26,Gharbia,AB-,5
+2022-08-27,Kafr El Sheikh,O-,5
+2022-08-28,Gharbia,AB-,1
+2022-08-29,Alexandria,O-,5
+2022-08-30,Giza,A+,5
+2022-08-31,Dakahlia,O+,2
+2022-09-01,Alexandria,B-,1
+2022-09-02,Cairo,AB-,3
+2022-09-03,Kafr El Sheikh,A+,2
+2022-09-04,Cairo,AB+,2
+2022-09-05,Kafr El Sheikh,A+,4
+2022-09-06,Alexandria,AB-,4
+2022-09-07,Dakahlia,A-,3
+2022-09-08,Alexandria,A-,7
+2022-09-09,Giza,A+,5
+2022-09-10,Cairo,B+,1
+2022-09-11,Giza,O-,2
+2022-09-12,Gharbia,O-,2
+2022-09-13,Cairo,A+,0
+2022-09-14,Alexandria,O-,4
+2022-09-15,Gharbia,AB+,3
+2022-09-16,Giza,B+,2
+2022-09-17,Alexandria,O-,8
+2022-09-18,Kafr El Sheikh,A-,2
+2022-09-19,Gharbia,A-,0
+2022-09-20,Giza,A-,7
+2022-09-21,Kafr El Sheikh,A-,7
+2022-09-22,Giza,B-,2
+2022-09-23,Gharbia,A-,6
+2022-09-24,Gharbia,A-,3
+2022-09-25,Cairo,B+,2
+2022-09-26,Alexandria,AB-,5
+2022-09-27,Gharbia,O+,2
+2022-09-28,Dakahlia,A+,3
+2022-09-29,Giza,AB-,3
+2022-09-30,Cairo,A+,3
+2022-10-01,Dakahlia,O-,3
+2022-10-02,Giza,B+,5
+2022-10-03,Giza,O+,5
+2022-10-04,Gharbia,O+,4
+2022-10-05,Alexandria,B+,5
+2022-10-06,Giza,B+,3
+2022-10-07,Kafr El Sheikh,B+,3
+2022-10-08,Dakahlia,B-,2
+2022-10-09,Giza,B-,2
+2022-10-10,Gharbia,AB-,2
+2022-10-11,Cairo,B-,3
+2022-10-12,Gharbia,O+,5
+2022-10-13,Giza,B-,9
+2022-10-14,Cairo,B+,3
+2022-10-15,Kafr El Sheikh,B+,5
+2022-10-16,Cairo,AB-,5
+2022-10-17,Cairo,A-,4
+2022-10-18,Giza,B+,5
+2022-10-19,Gharbia,B+,5
+2022-10-20,Gharbia,AB-,8
+2022-10-21,Dakahlia,A-,5
+2022-10-22,Alexandria,B-,3
+2022-10-23,Giza,AB-,5
+2022-10-24,Cairo,O-,4
+2022-10-25,Cairo,B-,5
+2022-10-26,Giza,O-,3
+2022-10-27,Dakahlia,AB+,4
+2022-10-28,Kafr El Sheikh,O+,2
+2022-10-29,Kafr El Sheikh,A-,5
+2022-10-30,Cairo,O-,2
+2022-10-31,Cairo,B+,4
+2022-11-01,Kafr El Sheikh,A-,4
+2022-11-02,Kafr El Sheikh,A+,1
+2022-11-03,Kafr El Sheikh,AB-,3
+2022-11-04,Alexandria,AB-,4
+2022-11-05,Dakahlia,A-,6
+2022-11-06,Kafr El Sheikh,O-,6
+2022-11-07,Cairo,B+,7
+2022-11-08,Gharbia,AB+,8
+2022-11-09,Cairo,AB+,2
+2022-11-10,Gharbia,AB+,7
+2022-11-11,Giza,AB-,5
+2022-11-12,Dakahlia,O-,7
+2022-11-13,Cairo,AB-,2
+2022-11-14,Cairo,O-,4
+2022-11-15,Alexandria,O+,4
+2022-11-16,Kafr El Sheikh,B+,2
+2022-11-17,Cairo,AB+,2
+2022-11-18,Gharbia,A-,4
+2022-11-19,Kafr El Sheikh,O-,2
+2022-11-20,Giza,O-,7
+2022-11-21,Dakahlia,O-,5
+2022-11-22,Kafr El Sheikh,AB-,3
+2022-11-23,Kafr El Sheikh,O+,2
+2022-11-24,Giza,O+,8
+2022-11-25,Cairo,A-,7
+2022-11-26,Gharbia,B+,2
+2022-11-27,Cairo,AB+,7
+2022-11-28,Kafr El Sheikh,B-,2
+2022-11-29,Cairo,AB-,2
+2022-11-30,Cairo,AB-,3
+2022-12-01,Kafr El Sheikh,O-,2
+2022-12-02,Giza,O+,4
+2022-12-03,Alexandria,A+,5
+2022-12-04,Giza,B+,1
+2022-12-05,Cairo,B+,5
+2022-12-06,Kafr El Sheikh,AB-,6
+2022-12-07,Kafr El Sheikh,B+,2
+2022-12-08,Kafr El Sheikh,O-,3
+2022-12-09,Gharbia,B+,3
+2022-12-10,Cairo,B-,8
+2022-12-11,Cairo,O+,6
+2022-12-12,Giza,B+,5
+2022-12-13,Kafr El Sheikh,A+,3
+2022-12-14,Giza,B+,8
+2022-12-15,Giza,B+,5
+2022-12-16,Dakahlia,AB+,4
+2022-12-17,Kafr El Sheikh,AB-,5
+2022-12-18,Kafr El Sheikh,AB+,4
+2022-12-19,Dakahlia,B-,8
+2022-12-20,Alexandria,AB+,4
+2022-12-21,Kafr El Sheikh,A-,6
+2022-12-22,Giza,A-,4
+2022-12-23,Alexandria,AB+,3
+2022-12-24,Gharbia,O+,2
+2022-12-25,Gharbia,AB+,3
+2022-12-26,Giza,A+,5
+2022-12-27,Kafr El Sheikh,O-,3
+2022-12-28,Dakahlia,B+,8
+2022-12-29,Cairo,AB-,6
+2022-12-30,Gharbia,O-,4
+2022-12-31,Giza,O-,7
+2023-01-01,Alexandria,A+,6
+2023-01-02,Gharbia,A-,10
+2023-01-03,Giza,AB-,3
+2023-01-04,Alexandria,O+,4
+2023-01-05,Cairo,O+,5
+2023-01-06,Giza,AB+,3
+2023-01-07,Cairo,A-,6
+2023-01-08,Kafr El Sheikh,AB-,8
+2023-01-09,Kafr El Sheikh,AB-,3
+2023-01-10,Giza,B-,6
+2023-01-11,Gharbia,AB-,3
+2023-01-12,Cairo,A-,3
+2023-01-13,Cairo,O+,4
+2023-01-14,Giza,A+,6
+2023-01-15,Kafr El Sheikh,O+,2
+2023-01-16,Kafr El Sheikh,O+,2
+2023-01-17,Giza,AB-,10
+2023-01-18,Giza,O+,2
+2023-01-19,Kafr El Sheikh,O-,3
+2023-01-20,Cairo,A-,10
+2023-01-21,Cairo,AB+,11
+2023-01-22,Dakahlia,AB-,6
+2023-01-23,Giza,O-,8
+2023-01-24,Dakahlia,AB-,5
+2023-01-25,Kafr El Sheikh,AB+,11
+2023-01-26,Gharbia,AB+,6
+2023-01-27,Cairo,A-,5
+2023-01-28,Gharbia,B+,3
+2023-01-29,Gharbia,B-,8
+2023-01-30,Alexandria,O-,9
+2023-01-31,Dakahlia,O+,3
+2023-02-01,Dakahlia,AB-,2
+2023-02-02,Dakahlia,A+,16
+2023-02-03,Kafr El Sheikh,AB-,2
+2023-02-04,Kafr El Sheikh,B-,4
+2023-02-05,Gharbia,AB-,5
+2023-02-06,Dakahlia,B-,5
+2023-02-07,Giza,AB-,5
+2023-02-08,Cairo,A-,2
+2023-02-09,Alexandria,A-,2
+2023-02-10,Alexandria,A-,6
+2023-02-11,Alexandria,O-,4
+2023-02-12,Giza,A+,9
+2023-02-13,Dakahlia,B+,5
+2023-02-14,Alexandria,B+,4
+2023-02-15,Gharbia,O+,1
+2023-02-16,Kafr El Sheikh,B+,6
+2023-02-17,Dakahlia,O-,7
+2023-02-18,Dakahlia,O-,9
+2023-02-19,Giza,AB-,6
+2023-02-20,Alexandria,B+,9
+2023-02-21,Alexandria,AB+,1
+2023-02-22,Alexandria,AB-,4
+2023-02-23,Gharbia,A+,4
+2023-02-24,Kafr El Sheikh,O+,10
+2023-02-25,Giza,B-,5
+2023-02-26,Gharbia,O+,10
+2023-02-27,Giza,AB+,6
+2023-02-28,Giza,O+,6
+2023-03-01,Giza,A+,8
+2023-03-02,Giza,A+,12
+2023-03-03,Giza,A+,9
+2023-03-04,Gharbia,O+,3
+2023-03-05,Dakahlia,O-,5
+2023-03-06,Gharbia,O-,7
+2023-03-07,Giza,B+,4
+2023-03-08,Dakahlia,B+,5
+2023-03-09,Gharbia,B+,8
+2023-03-10,Cairo,O+,5
+2023-03-11,Gharbia,B+,5
+2023-03-12,Dakahlia,AB+,9
+2023-03-13,Alexandria,AB-,5
+2023-03-14,Dakahlia,B+,5
+2023-03-15,Cairo,B-,3
+2023-03-16,Dakahlia,AB-,5
+2023-03-17,Giza,O+,11
+2023-03-18,Gharbia,A-,13
+2023-03-19,Giza,AB+,7
+2023-03-20,Giza,A-,5
+2023-03-21,Giza,A+,5
+2023-03-22,Giza,AB-,4
+2023-03-23,Gharbia,B-,9
+2023-03-24,Dakahlia,B+,7
+2023-03-25,Kafr El Sheikh,A+,7
+2023-03-26,Giza,O-,9
+2023-03-27,Cairo,O+,7
+2023-03-28,Kafr El Sheikh,O-,4
+2023-03-29,Gharbia,A+,8
+2023-03-30,Gharbia,A+,3
+2023-03-31,Gharbia,A-,9
+2023-04-01,Alexandria,A+,9
+2023-04-02,Alexandria,B-,7
+2023-04-03,Dakahlia,AB-,7
+2023-04-04,Cairo,A-,1
+2023-04-05,Kafr El Sheikh,B-,8
+2023-04-06,Alexandria,AB+,8
+2023-04-07,Giza,B+,12
+2023-04-08,Alexandria,B-,5
+2023-04-09,Cairo,AB+,4
+2023-04-10,Giza,O-,4
+2023-04-11,Gharbia,B+,3
+2023-04-12,Cairo,A+,11
+2023-04-13,Alexandria,O+,5
+2023-04-14,Cairo,AB+,8
+2023-04-15,Cairo,B-,8
+2023-04-16,Giza,AB-,3
+2023-04-17,Alexandria,O-,7
+2023-04-18,Giza,A-,7
+2023-04-19,Kafr El Sheikh,O+,4
+2023-04-20,Giza,AB-,7
+2023-04-21,Kafr El Sheikh,AB+,8
+2023-04-22,Alexandria,O+,9
+2023-04-23,Gharbia,B+,7
+2023-04-24,Alexandria,O+,5
+2023-04-25,Dakahlia,AB+,8
+2023-04-26,Alexandria,O-,11
+2023-04-27,Gharbia,B-,1
+2023-04-28,Gharbia,AB-,5
+2023-04-29,Gharbia,B-,7
+2023-04-30,Alexandria,B-,11
+2023-05-01,Cairo,B-,7
+2023-05-02,Giza,O-,5
+2023-05-03,Dakahlia,O+,4
+2023-05-04,Giza,A-,7
+2023-05-05,Dakahlia,O+,3
+2023-05-06,Gharbia,AB+,5
+2023-05-07,Dakahlia,A+,8
+2023-05-08,Alexandria,O+,4
+2023-05-09,Cairo,A-,1
+2023-05-10,Alexandria,O+,8
+2023-05-11,Giza,B-,8
+2023-05-12,Gharbia,O-,9
+2023-05-13,Cairo,B-,1
+2023-05-14,Kafr El Sheikh,A+,4
+2023-05-15,Cairo,O+,7
+2023-05-16,Giza,AB-,7
+2023-05-17,Cairo,B+,16
+2023-05-18,Alexandria,A-,11
+2023-05-19,Cairo,O+,9
+2023-05-20,Gharbia,O+,4
+2023-05-21,Giza,B+,4
+2023-05-22,Dakahlia,AB-,8
+2023-05-23,Giza,A-,5
+2023-05-24,Kafr El Sheikh,A-,7
+2023-05-25,Cairo,AB-,8
+2023-05-26,Gharbia,O+,8
+2023-05-27,Giza,O-,11
+2023-05-28,Dakahlia,B-,8
+2023-05-29,Dakahlia,A-,9
+2023-05-30,Giza,AB+,7
+2023-05-31,Giza,AB-,5
+2023-06-01,Cairo,O-,5
+2023-06-02,Cairo,A+,7
+2023-06-03,Kafr El Sheikh,AB-,7
+2023-06-04,Cairo,AB+,6
+2023-06-05,Giza,AB+,5
+2023-06-06,Gharbia,A+,4
+2023-06-07,Alexandria,A+,7
+2023-06-08,Giza,AB+,5
+2023-06-09,Gharbia,A-,11
+2023-06-10,Dakahlia,AB+,6
+2023-06-11,Cairo,A+,6
+2023-06-12,Cairo,O+,1
+2023-06-13,Giza,B+,6
+2023-06-14,Cairo,B-,5
+2023-06-15,Cairo,B+,7
+2023-06-16,Giza,B-,10
+2023-06-17,Giza,AB+,7
+2023-06-18,Cairo,AB-,5
+2023-06-19,Kafr El Sheikh,AB-,5
+2023-06-20,Dakahlia,O-,6
+2023-06-21,Alexandria,A-,9
+2023-06-22,Giza,O+,6
+2023-06-23,Cairo,AB+,7
+2023-06-24,Cairo,B+,6
+2023-06-25,Giza,O-,5
+2023-06-26,Kafr El Sheikh,AB-,7
+2023-06-27,Cairo,A-,7
+2023-06-28,Dakahlia,A-,5
+2023-06-29,Dakahlia,AB-,4
+2023-06-30,Alexandria,AB-,2
+2023-07-01,Kafr El Sheikh,A+,8
+2023-07-02,Kafr El Sheikh,AB-,3
+2023-07-03,Giza,AB+,6
+2023-07-04,Dakahlia,O-,4
+2023-07-05,Giza,AB-,9
+2023-07-06,Alexandria,O-,9
+2023-07-07,Kafr El Sheikh,A+,5
+2023-07-08,Cairo,O+,5
+2023-07-09,Kafr El Sheikh,B+,0
+2023-07-10,Alexandria,AB+,4
+2023-07-11,Cairo,O-,4
+2023-07-12,Kafr El Sheikh,O+,6
+2023-07-13,Giza,A-,8
+2023-07-14,Alexandria,A-,4
+2023-07-15,Gharbia,AB-,5
+2023-07-16,Alexandria,O-,4
+2023-07-17,Kafr El Sheikh,AB+,3
+2023-07-18,Dakahlia,A+,15
+2023-07-19,Dakahlia,A-,5
+2023-07-20,Gharbia,AB-,3
+2023-07-21,Dakahlia,AB-,4
+2023-07-22,Alexandria,O-,11
+2023-07-23,Dakahlia,AB+,5
+2023-07-24,Dakahlia,B-,5
+2023-07-25,Giza,A+,8
+2023-07-26,Dakahlia,O+,5
+2023-07-27,Gharbia,O-,10
+2023-07-28,Dakahlia,A+,11
+2023-07-29,Giza,B-,5
+2023-07-30,Alexandria,B+,4
+2023-07-31,Gharbia,AB-,3
+2023-08-01,Gharbia,O+,5
+2023-08-02,Cairo,A-,5
+2023-08-03,Kafr El Sheikh,O-,2
+2023-08-04,Dakahlia,A-,4
+2023-08-05,Cairo,O+,5
+2023-08-06,Gharbia,AB-,3
+2023-08-07,Kafr El Sheikh,A-,7
+2023-08-08,Gharbia,AB-,8
+2023-08-09,Dakahlia,B+,9
+2023-08-10,Cairo,B+,4
+2023-08-11,Kafr El Sheikh,A+,4
+2023-08-12,Gharbia,AB-,4
+2023-08-13,Kafr El Sheikh,O+,8
+2023-08-14,Kafr El Sheikh,AB+,4
+2023-08-15,Dakahlia,O+,8
+2023-08-16,Dakahlia,B+,6
+2023-08-17,Kafr El Sheikh,AB+,3
+2023-08-18,Alexandria,O+,8
+2023-08-19,Giza,B-,6
+2023-08-20,Giza,AB+,2
+2023-08-21,Alexandria,A-,5
+2023-08-22,Alexandria,AB+,6
+2023-08-23,Kafr El Sheikh,O+,8
+2023-08-24,Kafr El Sheikh,O+,5
+2023-08-25,Gharbia,B+,6
+2023-08-26,Cairo,AB+,5
+2023-08-27,Gharbia,AB+,3
+2023-08-28,Kafr El Sheikh,O-,3
+2023-08-29,Gharbia,O+,8
+2023-08-30,Alexandria,O+,7
+2023-08-31,Dakahlia,O+,5
+2023-09-01,Gharbia,B+,6
+2023-09-02,Alexandria,B-,3
+2023-09-03,Dakahlia,B-,5
+2023-09-04,Alexandria,B-,3
+2023-09-05,Dakahlia,O-,5
+2023-09-06,Gharbia,O-,5
+2023-09-07,Dakahlia,O-,5
+2023-09-08,Dakahlia,AB+,2
+2023-09-09,Alexandria,A-,6
+2023-09-10,Kafr El Sheikh,A-,3
+2023-09-11,Giza,B+,4
+2023-09-12,Kafr El Sheikh,AB-,5
+2023-09-13,Giza,B+,1
+2023-09-14,Gharbia,AB-,6
+2023-09-15,Kafr El Sheikh,O-,4
+2023-09-16,Gharbia,B+,4
+2023-09-17,Giza,O-,5
+2023-09-18,Kafr El Sheikh,AB+,4
+2023-09-19,Dakahlia,O+,4
+2023-09-20,Kafr El Sheikh,A+,4
+2023-09-21,Giza,B+,8
+2023-09-22,Giza,O-,6
+2023-09-23,Dakahlia,O-,4
+2023-09-24,Alexandria,AB+,6
+2023-09-25,Kafr El Sheikh,A+,2
+2023-09-26,Alexandria,A+,4
+2023-09-27,Dakahlia,B-,5
+2023-09-28,Gharbia,O-,3
+2023-09-29,Cairo,B-,3
+2023-09-30,Alexandria,O-,5
+2023-10-01,Gharbia,AB+,7
+2023-10-02,Cairo,A-,2
+2023-10-03,Cairo,AB+,3
+2023-10-04,Dakahlia,B+,2
+2023-10-05,Alexandria,A-,6
+2023-10-06,Giza,AB-,6
+2023-10-07,Alexandria,A-,2
+2023-10-08,Giza,O-,6
+2023-10-09,Cairo,O+,6
+2023-10-10,Dakahlia,O+,4
+2023-10-11,Alexandria,A+,5
+2023-10-12,Giza,O-,3
+2023-10-13,Cairo,B-,2
+2023-10-14,Kafr El Sheikh,AB-,1
+2023-10-15,Giza,A-,9
+2023-10-16,Kafr El Sheikh,O+,4
+2023-10-17,Gharbia,B+,5
+2023-10-18,Gharbia,AB-,6
+2023-10-19,Cairo,B+,3
+2023-10-20,Cairo,O-,1
+2023-10-21,Giza,AB-,4
+2023-10-22,Cairo,B-,3
+2023-10-23,Gharbia,B-,5
+2023-10-24,Kafr El Sheikh,A+,5
+2023-10-25,Alexandria,B+,3
+2023-10-26,Cairo,O+,3
+2023-10-27,Dakahlia,O+,5
+2023-10-28,Kafr El Sheikh,O-,5
+2023-10-29,Alexandria,A+,3
+2023-10-30,Gharbia,B+,2
+2023-10-31,Alexandria,O+,2
+2023-11-01,Cairo,B+,4
+2023-11-02,Kafr El Sheikh,A-,4
+2023-11-03,Giza,B+,6
+2023-11-04,Kafr El Sheikh,O-,5
+2023-11-05,Alexandria,O+,6
+2023-11-06,Giza,A+,4
+2023-11-07,Alexandria,O+,2
+2023-11-08,Dakahlia,AB+,3
+2023-11-09,Dakahlia,O+,3
+2023-11-10,Kafr El Sheikh,AB+,2
+2023-11-11,Dakahlia,AB-,3
+2023-11-12,Gharbia,AB+,2
+2023-11-13,Cairo,AB-,3
+2023-11-14,Alexandria,O+,2
+2023-11-15,Alexandria,AB+,1
+2023-11-16,Alexandria,A+,2
+2023-11-17,Alexandria,A+,7
+2023-11-18,Gharbia,B-,4
+2023-11-19,Giza,B-,4
+2023-11-20,Gharbia,O+,7
+2023-11-21,Alexandria,A+,4
+2023-11-22,Giza,O-,3
+2023-11-23,Kafr El Sheikh,A+,3
+2023-11-24,Cairo,B-,4
+2023-11-25,Giza,B-,7
+2023-11-26,Cairo,AB+,4
+2023-11-27,Gharbia,A+,8
+2023-11-28,Cairo,O+,3
+2023-11-29,Kafr El Sheikh,A-,3
+2023-11-30,Dakahlia,O+,5
+2023-12-01,Kafr El Sheikh,AB+,10
+2023-12-02,Cairo,O-,6
+2023-12-03,Cairo,O-,4
+2023-12-04,Dakahlia,O+,5
+2023-12-05,Gharbia,B-,8
+2023-12-06,Cairo,B-,3
+2023-12-07,Alexandria,AB-,5
+2023-12-08,Alexandria,AB-,4
+2023-12-09,Dakahlia,O+,4
+2023-12-10,Alexandria,B-,3
+2023-12-11,Giza,B-,7
+2023-12-12,Giza,A+,2
+2023-12-13,Kafr El Sheikh,A-,3
+2023-12-14,Giza,O+,5
+2023-12-15,Giza,O-,3
+2023-12-16,Gharbia,AB+,6
+2023-12-17,Giza,B+,6
+2023-12-18,Gharbia,A+,6
+2023-12-19,Alexandria,A+,1
+2023-12-20,Dakahlia,AB-,7
+2023-12-21,Gharbia,AB-,5
+2023-12-22,Kafr El Sheikh,B+,3
+2023-12-23,Giza,A-,2
+2023-12-24,Gharbia,A+,5
+2023-12-25,Giza,AB-,6
+2023-12-26,Gharbia,AB+,1
+2023-12-27,Alexandria,B+,6
+2023-12-28,Gharbia,AB-,7
+2023-12-29,Giza,O+,2
+2023-12-30,Alexandria,AB+,10
+2023-12-31,Cairo,B+,4
+2024-01-01,Cairo,A+,10
+2024-01-02,Cairo,O+,1
+2024-01-03,Dakahlia,AB+,3
+2024-01-04,Alexandria,B+,11
+2024-01-05,Alexandria,A+,8
+2024-01-06,Alexandria,O+,6
+2024-01-07,Alexandria,O-,4
+2024-01-08,Dakahlia,B-,2
+2024-01-09,Alexandria,B+,3
+2024-01-10,Alexandria,AB+,7
+2024-01-11,Giza,O+,9
+2024-01-12,Giza,AB+,7
+2024-01-13,Alexandria,A+,6
+2024-01-14,Kafr El Sheikh,A-,3
+2024-01-15,Dakahlia,A+,3
+2024-01-16,Giza,B-,1
+2024-01-17,Giza,B-,7
+2024-01-18,Giza,AB+,4
+2024-01-19,Giza,O+,9
+2024-01-20,Gharbia,A+,8
+2024-01-21,Kafr El Sheikh,O-,10
+2024-01-22,Kafr El Sheikh,B+,6
+2024-01-23,Gharbia,AB+,3
+2024-01-24,Gharbia,A-,6
+2024-01-25,Alexandria,B+,4
+2024-01-26,Giza,O+,3
+2024-01-27,Alexandria,A+,8
+2024-01-28,Gharbia,B-,7
+2024-01-29,Alexandria,AB+,3
+2024-01-30,Dakahlia,AB+,3
+2024-01-31,Alexandria,B-,7
+2024-02-01,Alexandria,B-,9
+2024-02-02,Dakahlia,O-,8
+2024-02-03,Alexandria,A-,4
+2024-02-04,Kafr El Sheikh,B-,6
+2024-02-05,Cairo,B+,9
+2024-02-06,Gharbia,O+,1
+2024-02-07,Alexandria,O+,11
+2024-02-08,Kafr El Sheikh,O+,9
+2024-02-09,Gharbia,A+,6
+2024-02-10,Gharbia,A+,4
+2024-02-11,Alexandria,B-,6
+2024-02-12,Giza,B-,8
+2024-02-13,Dakahlia,A+,8
+2024-02-14,Kafr El Sheikh,O-,9
+2024-02-15,Cairo,O-,8
+2024-02-16,Giza,B-,9
+2024-02-17,Giza,O+,5
+2024-02-18,Cairo,AB+,5
+2024-02-19,Kafr El Sheikh,AB-,4
+2024-02-20,Gharbia,O+,5
+2024-02-21,Giza,A+,9
+2024-02-22,Dakahlia,A-,8
+2024-02-23,Alexandria,B-,6
+2024-02-24,Giza,O-,3
+2024-02-25,Alexandria,AB+,4
+2024-02-26,Alexandria,B-,9
+2024-02-27,Dakahlia,A+,0
+2024-02-28,Gharbia,AB+,9
+2024-02-29,Dakahlia,B+,11
+2024-03-01,Dakahlia,B+,8
+2024-03-02,Kafr El Sheikh,O-,11
+2024-03-03,Giza,AB+,5
+2024-03-04,Gharbia,A-,11
+2024-03-05,Alexandria,A+,14
+2024-03-06,Giza,B-,8
+2024-03-07,Cairo,A+,10
+2024-03-08,Cairo,B-,7
+2024-03-09,Dakahlia,B-,7
+2024-03-10,Cairo,O-,10
+2024-03-11,Giza,B+,10
+2024-03-12,Giza,B+,7
+2024-03-13,Gharbia,AB+,8
+2024-03-14,Gharbia,AB-,5
+2024-03-15,Giza,A+,5
+2024-03-16,Kafr El Sheikh,A+,5
+2024-03-17,Giza,A-,1
+2024-03-18,Gharbia,O+,14
+2024-03-19,Alexandria,A-,12
+2024-03-20,Giza,O-,3
+2024-03-21,Dakahlia,B-,10
+2024-03-22,Alexandria,O-,4
+2024-03-23,Alexandria,A-,10
+2024-03-24,Alexandria,B-,5
+2024-03-25,Gharbia,A-,5
+2024-03-26,Alexandria,O+,12
+2024-03-27,Cairo,AB+,10
+2024-03-28,Giza,A+,7
+2024-03-29,Dakahlia,AB-,4
+2024-03-30,Gharbia,O-,8
+2024-03-31,Gharbia,AB-,7
+2024-04-01,Dakahlia,O+,7
+2024-04-02,Dakahlia,B+,4
+2024-04-03,Alexandria,B-,3
+2024-04-04,Alexandria,O+,10
+2024-04-05,Giza,AB+,8
+2024-04-06,Dakahlia,AB+,8
+2024-04-07,Giza,O+,13
+2024-04-08,Cairo,AB+,3
+2024-04-09,Kafr El Sheikh,A-,4
+2024-04-10,Kafr El Sheikh,A-,15
+2024-04-11,Alexandria,O+,3
+2024-04-12,Dakahlia,A-,10
+2024-04-13,Dakahlia,AB-,10
+2024-04-14,Dakahlia,B-,7
+2024-04-15,Dakahlia,AB+,8
+2024-04-16,Kafr El Sheikh,A-,14
+2024-04-17,Gharbia,B+,7
+2024-04-18,Gharbia,AB-,4
+2024-04-19,Gharbia,A-,6
+2024-04-20,Alexandria,B+,4
+2024-04-21,Cairo,O-,6
+2024-04-22,Gharbia,A-,4
+2024-04-23,Cairo,AB+,10
+2024-04-24,Dakahlia,A-,3
+2024-04-25,Gharbia,AB-,6
+2024-04-26,Gharbia,A-,10
+2024-04-27,Giza,AB+,8
+2024-04-28,Gharbia,B-,3
+2024-04-29,Dakahlia,AB-,15
+2024-04-30,Gharbia,A+,4
+2024-05-01,Alexandria,AB+,7
+2024-05-02,Giza,AB+,5
+2024-05-03,Dakahlia,A-,5
+2024-05-04,Cairo,B+,8
+2024-05-05,Cairo,AB-,8
+2024-05-06,Alexandria,AB+,5
+2024-05-07,Alexandria,AB+,4
+2024-05-08,Dakahlia,O-,3
+2024-05-09,Gharbia,B-,1
+2024-05-10,Kafr El Sheikh,O+,3
+2024-05-11,Cairo,O-,8
+2024-05-12,Gharbia,AB+,7
+2024-05-13,Giza,A-,3
+2024-05-14,Cairo,B-,0
+2024-05-15,Giza,A+,10
+2024-05-16,Gharbia,AB-,12
+2024-05-17,Alexandria,B+,8
+2024-05-18,Alexandria,O-,8
+2024-05-19,Giza,AB-,5
+2024-05-20,Gharbia,B-,7
+2024-05-21,Giza,A-,4
+2024-05-22,Gharbia,A+,1
+2024-05-23,Dakahlia,AB-,4
+2024-05-24,Alexandria,O+,10
+2024-05-25,Alexandria,B+,4
+2024-05-26,Dakahlia,A+,7
+2024-05-27,Kafr El Sheikh,B+,4
+2024-05-28,Cairo,O+,11
+2024-05-29,Cairo,AB+,11
+2024-05-30,Dakahlia,A+,8
+2024-05-31,Dakahlia,A+,5
+2024-06-01,Dakahlia,A+,1
+2024-06-02,Kafr El Sheikh,O+,6
+2024-06-03,Cairo,O+,6
+2024-06-04,Cairo,B-,9
+2024-06-05,Kafr El Sheikh,AB-,4
+2024-06-06,Cairo,A+,1
+2024-06-07,Alexandria,AB+,9
+2024-06-08,Gharbia,B+,6
+2024-06-09,Cairo,O+,1
+2024-06-10,Gharbia,B-,5
+2024-06-11,Dakahlia,O+,8
+2024-06-12,Kafr El Sheikh,AB+,3
+2024-06-13,Cairo,B-,11
+2024-06-14,Alexandria,O-,5
+2024-06-15,Gharbia,O-,6
+2024-06-16,Dakahlia,B-,3
+2024-06-17,Gharbia,B+,8
+2024-06-18,Cairo,AB-,6
+2024-06-19,Gharbia,A-,6
+2024-06-20,Gharbia,B-,6
+2024-06-21,Giza,O+,11
+2024-06-22,Kafr El Sheikh,O-,10
+2024-06-23,Cairo,B-,0
+2024-06-24,Kafr El Sheikh,B-,3
+2024-06-25,Dakahlia,O+,3
+2024-06-26,Cairo,A-,9
+2024-06-27,Dakahlia,A+,6
+2024-06-28,Cairo,A+,8
+2024-06-29,Gharbia,A+,8
+2024-06-30,Dakahlia,O-,8
+2024-07-01,Alexandria,A+,4
+2024-07-02,Alexandria,B+,9
+2024-07-03,Kafr El Sheikh,AB+,7
+2024-07-04,Kafr El Sheikh,AB+,2
+2024-07-05,Gharbia,O+,4
+2024-07-06,Dakahlia,O-,2
+2024-07-07,Gharbia,B-,2
+2024-07-08,Giza,A-,4
+2024-07-09,Cairo,A+,8
+2024-07-10,Kafr El Sheikh,O-,1
+2024-07-11,Dakahlia,B+,4
+2024-07-12,Cairo,O-,6
+2024-07-13,Kafr El Sheikh,B+,6
+2024-07-14,Kafr El Sheikh,O+,6
+2024-07-15,Giza,AB-,9
+2024-07-16,Gharbia,AB-,4
+2024-07-17,Alexandria,AB-,4
+2024-07-18,Gharbia,B+,1
+2024-07-19,Alexandria,A+,6
+2024-07-20,Dakahlia,A+,2
+2024-07-21,Cairo,B-,8
+2024-07-22,Giza,O-,6
+2024-07-23,Cairo,AB-,1
+2024-07-24,Dakahlia,AB-,1
+2024-07-25,Alexandria,B+,4
+2024-07-26,Kafr El Sheikh,B-,8
+2024-07-27,Cairo,B-,2
+2024-07-28,Alexandria,A-,7
+2024-07-29,Alexandria,AB+,4
+2024-07-30,Cairo,B+,0
+2024-07-31,Giza,B-,4
+2024-08-01,Gharbia,AB+,6
+2024-08-02,Dakahlia,A+,8
+2024-08-03,Cairo,O-,4
+2024-08-04,Dakahlia,A-,6
+2024-08-05,Gharbia,AB-,3
+2024-08-06,Cairo,O+,9
+2024-08-07,Cairo,A-,5
+2024-08-08,Kafr El Sheikh,A-,8
+2024-08-09,Gharbia,B-,5
+2024-08-10,Dakahlia,O+,4
+2024-08-11,Alexandria,AB-,7
+2024-08-12,Gharbia,B-,2
+2024-08-13,Giza,O+,4
+2024-08-14,Gharbia,B-,2
+2024-08-15,Gharbia,O-,8
+2024-08-16,Gharbia,O+,8
+2024-08-17,Alexandria,A-,10
+2024-08-18,Giza,B-,4
+2024-08-19,Cairo,A+,3
+2024-08-20,Gharbia,A-,5
+2024-08-21,Cairo,A+,2
+2024-08-22,Alexandria,A+,4
+2024-08-23,Giza,A+,6
+2024-08-24,Dakahlia,AB-,4
+2024-08-25,Dakahlia,B-,6
+2024-08-26,Gharbia,B-,6
+2024-08-27,Dakahlia,O+,5
+2024-08-28,Dakahlia,O+,2
+2024-08-29,Giza,AB+,4
+2024-08-30,Alexandria,B-,4
+2024-08-31,Gharbia,AB-,5
+2024-09-01,Alexandria,B-,7
+2024-09-02,Giza,B-,2
+2024-09-03,Cairo,B+,5
+2024-09-04,Alexandria,A-,5
+2024-09-05,Alexandria,A-,4
+2024-09-06,Cairo,AB-,5
+2024-09-07,Dakahlia,O+,4
+2024-09-08,Dakahlia,B-,4
+2024-09-09,Dakahlia,A+,8
+2024-09-10,Kafr El Sheikh,AB+,4
+2024-09-11,Cairo,O-,4
+2024-09-12,Cairo,AB+,5
+2024-09-13,Dakahlia,A+,5
+2024-09-14,Gharbia,A+,5
+2024-09-15,Alexandria,AB+,4
+2024-09-16,Cairo,O+,6
+2024-09-17,Giza,A+,7
+2024-09-18,Gharbia,O+,4
+2024-09-19,Alexandria,O+,6
+2024-09-20,Cairo,A+,5
+2024-09-21,Giza,A-,5
+2024-09-22,Gharbia,A+,7
+2024-09-23,Dakahlia,AB+,4
+2024-09-24,Giza,A-,3
+2024-09-25,Dakahlia,O-,6
+2024-09-26,Kafr El Sheikh,A+,5
+2024-09-27,Dakahlia,AB-,7
+2024-09-28,Kafr El Sheikh,O+,4
+2024-09-29,Alexandria,A-,6
+2024-09-30,Alexandria,B+,9
+2024-10-01,Dakahlia,O+,5
+2024-10-02,Cairo,A+,5
+2024-10-03,Cairo,B-,5
+2024-10-04,Gharbia,B+,2
+2024-10-05,Alexandria,A+,6
+2024-10-06,Dakahlia,B-,11
+2024-10-07,Giza,B-,3
+2024-10-08,Giza,B+,5
+2024-10-09,Dakahlia,O+,7
+2024-10-10,Dakahlia,A+,3
+2024-10-11,Gharbia,B-,3
+2024-10-12,Dakahlia,A-,7
+2024-10-13,Cairo,O+,6
+2024-10-14,Cairo,AB+,4
+2024-10-15,Gharbia,AB-,4
+2024-10-16,Alexandria,A+,7
+2024-10-17,Cairo,B-,4
+2024-10-18,Kafr El Sheikh,A+,3
+2024-10-19,Giza,B+,4
+2024-10-20,Giza,O-,5
+2024-10-21,Dakahlia,AB-,3
+2024-10-22,Dakahlia,A+,5
+2024-10-23,Dakahlia,B+,3
+2024-10-24,Giza,O+,3
+2024-10-25,Gharbia,A-,4
+2024-10-26,Gharbia,O+,3
+2024-10-27,Dakahlia,B+,4
+2024-10-28,Alexandria,B-,4
+2024-10-29,Cairo,O-,3
+2024-10-30,Kafr El Sheikh,AB-,3
+2024-10-31,Gharbia,B+,5
+2024-11-01,Dakahlia,A+,4
+2024-11-02,Gharbia,A-,6
+2024-11-03,Dakahlia,B-,5
+2024-11-04,Alexandria,A-,2
+2024-11-05,Kafr El Sheikh,O-,4
+2024-11-06,Kafr El Sheikh,A+,5
+2024-11-07,Dakahlia,AB+,6
+2024-11-08,Cairo,O-,3
+2024-11-09,Alexandria,B+,6
+2024-11-10,Gharbia,AB+,2
+2024-11-11,Alexandria,A+,3
+2024-11-12,Gharbia,AB-,4
+2024-11-13,Giza,O-,6
+2024-11-14,Dakahlia,O+,4
+2024-11-15,Kafr El Sheikh,A-,7
+2024-11-16,Alexandria,B+,6
+2024-11-17,Cairo,AB-,8
+2024-11-18,Kafr El Sheikh,O+,9
+2024-11-19,Gharbia,B-,5
+2024-11-20,Giza,O-,5
+2024-11-21,Alexandria,A-,4
+2024-11-22,Alexandria,AB-,3
+2024-11-23,Cairo,B-,8
+2024-11-24,Kafr El Sheikh,AB-,7
+2024-11-25,Gharbia,AB+,9
+2024-11-26,Kafr El Sheikh,B-,6
+2024-11-27,Alexandria,O+,3
+2024-11-28,Kafr El Sheikh,O+,8
+2024-11-29,Gharbia,O+,8
+2024-11-30,Cairo,A+,4
+2024-12-01,Alexandria,B-,5
+2024-12-02,Dakahlia,AB-,4
+2024-12-03,Giza,O+,6
+2024-12-04,Alexandria,B+,5
+2024-12-05,Giza,AB-,6
+2024-12-06,Alexandria,AB+,9
+2024-12-07,Cairo,A-,3
+2024-12-08,Giza,O-,6
+2024-12-09,Alexandria,B-,6
+2024-12-10,Gharbia,AB+,5
+2024-12-11,Alexandria,B+,6
+2024-12-12,Dakahlia,A+,2
+2024-12-13,Cairo,B-,7
+2024-12-14,Giza,AB-,5
+2024-12-15,Giza,B+,1
+2024-12-16,Dakahlia,O-,2
+2024-12-17,Alexandria,O+,3
+2024-12-18,Dakahlia,AB-,3
+2024-12-19,Kafr El Sheikh,O+,5
+2024-12-20,Dakahlia,O+,4
+2024-12-21,Dakahlia,AB-,8
+2024-12-22,Alexandria,O+,5
+2024-12-23,Kafr El Sheikh,AB-,5
+2024-12-24,Giza,O+,3
+2024-12-25,Dakahlia,A+,4
+2024-12-26,Alexandria,B+,2
+2024-12-27,Kafr El Sheikh,O-,4
+2024-12-28,Alexandria,B-,4
+2024-12-29,Gharbia,A+,4
+2024-12-30,Cairo,O+,5
+2024-12-31,Giza,AB-,3
+2025-01-01,Alexandria,O-,6
+2025-01-02,Dakahlia,A+,7
+2025-01-03,Alexandria,A-,3
+2025-01-04,Alexandria,AB+,7
+2025-01-05,Giza,A-,6
+2025-01-06,Giza,AB+,2
+2025-01-07,Alexandria,B+,7
+2025-01-08,Cairo,A-,3
+2025-01-09,Kafr El Sheikh,O+,5
+2025-01-10,Dakahlia,A+,2
+2025-01-11,Alexandria,O+,3
+2025-01-12,Giza,A-,5
+2025-01-13,Alexandria,AB+,7
+2025-01-14,Gharbia,O-,15
+2025-01-15,Dakahlia,A+,2
+2025-01-16,Alexandria,O-,5
+2025-01-17,Cairo,B+,2
+2025-01-18,Dakahlia,AB-,7
+2025-01-19,Kafr El Sheikh,O+,6
+2025-01-20,Kafr El Sheikh,A-,5
+2025-01-21,Kafr El Sheikh,B+,6
+2025-01-22,Alexandria,O+,6
+2025-01-23,Alexandria,A+,5
+2025-01-24,Cairo,A+,3
+2025-01-25,Cairo,B+,6
+2025-01-26,Cairo,AB+,8
+2025-01-27,Alexandria,O+,3
+2025-01-28,Cairo,AB+,5
+2025-01-29,Giza,B-,6
+2025-01-30,Alexandria,O+,3
+2025-01-31,Gharbia,A-,9
+2025-02-01,Gharbia,O-,8
+2025-02-02,Giza,B+,5
+2025-02-03,Giza,B+,12
+2025-02-04,Kafr El Sheikh,O-,4
+2025-02-05,Giza,AB-,5
+2025-02-06,Alexandria,B-,1
+2025-02-07,Cairo,B+,10
+2025-02-08,Dakahlia,B-,3
+2025-02-09,Kafr El Sheikh,O+,3
+2025-02-10,Cairo,A-,8
+2025-02-11,Dakahlia,A-,3
+2025-02-12,Gharbia,B+,3
+2025-02-13,Giza,B-,9
+2025-02-14,Giza,O+,5
+2025-02-15,Gharbia,A-,1
+2025-02-16,Kafr El Sheikh,O+,1
+2025-02-17,Alexandria,O-,9
+2025-02-18,Cairo,B-,8
+2025-02-19,Alexandria,O-,1
+2025-02-20,Gharbia,O-,3
+2025-02-21,Giza,O+,10
+2025-02-22,Gharbia,B-,1
+2025-02-23,Giza,B+,7
+2025-02-24,Gharbia,O+,7
+2025-02-25,Cairo,B-,4
+2025-02-26,Cairo,A+,9
+2025-02-27,Cairo,AB-,3
+2025-02-28,Dakahlia,B+,8
+2025-03-01,Giza,O-,8
+2025-03-02,Cairo,O+,6
+2025-03-03,Cairo,A+,11
+2025-03-04,Alexandria,O-,4
+2025-03-05,Kafr El Sheikh,O-,11
+2025-03-06,Dakahlia,O+,8
+2025-03-07,Gharbia,B+,7
+2025-03-08,Gharbia,AB-,7
+2025-03-09,Cairo,O+,6
+2025-03-10,Alexandria,O+,6
+2025-03-11,Giza,B-,4
+2025-03-12,Alexandria,AB-,0
+2025-03-13,Alexandria,B-,6
+2025-03-14,Cairo,B+,4
+2025-03-15,Kafr El Sheikh,AB-,8
+2025-03-16,Alexandria,B-,8
+2025-03-17,Kafr El Sheikh,A-,11
+2025-03-18,Kafr El Sheikh,AB-,7
+2025-03-19,Giza,B+,8
+2025-03-20,Gharbia,AB+,8
+2025-03-21,Giza,B+,11
+2025-03-22,Kafr El Sheikh,O-,4
+2025-03-23,Gharbia,O+,7
+2025-03-24,Dakahlia,B-,11
+2025-03-25,Cairo,AB-,6
+2025-03-26,Cairo,A-,13
+2025-03-27,Gharbia,O-,6
+2025-03-28,Alexandria,A-,3
+2025-03-29,Kafr El Sheikh,O+,10
+2025-03-30,Cairo,O+,4
+2025-03-31,Cairo,A-,6
+2025-04-01,Alexandria,A+,12
+2025-04-02,Alexandria,AB-,10
+2025-04-03,Giza,O+,6
+2025-04-04,Cairo,AB-,12
+2025-04-05,Giza,A+,3
+2025-04-06,Alexandria,AB-,6
+2025-04-07,Gharbia,B-,7
+2025-04-08,Dakahlia,O-,1
+2025-04-09,Cairo,O+,4
+2025-04-10,Kafr El Sheikh,O+,6
+2025-04-11,Giza,B-,10
+2025-04-12,Alexandria,B+,7
+2025-04-13,Gharbia,O+,12
+2025-04-14,Alexandria,A+,13
+2025-04-15,Cairo,A+,10
+2025-04-16,Alexandria,A+,3
+2025-04-17,Gharbia,AB+,6
+2025-04-18,Kafr El Sheikh,A+,6
+2025-04-19,Gharbia,AB+,12
+2025-04-20,Cairo,A-,3
+2025-04-21,Gharbia,O-,6
+2025-04-22,Giza,B-,14
+2025-04-23,Giza,A+,3
+2025-04-24,Cairo,AB-,3
+2025-04-25,Dakahlia,B+,4
+2025-04-26,Giza,B+,9
+2025-04-27,Alexandria,AB-,6
+2025-04-28,Alexandria,O-,6
+2025-04-29,Giza,O-,4
+2025-04-30,Alexandria,B-,6
+2025-05-01,Gharbia,O+,13
+2025-05-02,Kafr El Sheikh,A-,16
+2025-05-03,Cairo,O+,11
+2025-05-04,Gharbia,O-,11
+2025-05-05,Dakahlia,AB+,6
+2025-05-06,Alexandria,AB+,10
+2025-05-07,Giza,AB+,6
+2025-05-08,Kafr El Sheikh,A+,4
+2025-05-09,Cairo,O+,7
+2025-05-10,Gharbia,AB-,6
+2025-05-11,Giza,O+,7
+2025-05-12,Kafr El Sheikh,A+,4
+2025-05-13,Dakahlia,O+,10
+2025-05-14,Alexandria,B+,7
+2025-05-15,Giza,O+,4
+2025-05-16,Gharbia,O-,8
+2025-05-17,Gharbia,O-,4
+2025-05-18,Kafr El Sheikh,O-,8
+2025-05-19,Alexandria,A+,6
+2025-05-20,Cairo,B+,7
+2025-05-21,Gharbia,B+,8
+2025-05-22,Dakahlia,AB+,4
+2025-05-23,Giza,O-,8
+2025-05-24,Kafr El Sheikh,AB-,7
+2025-05-25,Dakahlia,AB+,8
+2025-05-26,Giza,O+,4
+2025-05-27,Cairo,A-,6
+2025-05-28,Alexandria,AB-,11
+2025-05-29,Alexandria,AB+,7
+2025-05-30,Cairo,A-,7
+2025-05-31,Gharbia,AB-,7
+2025-06-01,Gharbia,O+,8
+2025-06-02,Kafr El Sheikh,O+,1
+2025-06-03,Gharbia,O+,7
+2025-06-04,Alexandria,O+,4
+2025-06-05,Dakahlia,B-,10
+2025-06-06,Dakahlia,A+,9
+2025-06-07,Giza,O-,9
+2025-06-08,Dakahlia,B-,4
+2025-06-09,Dakahlia,AB-,7
+2025-06-10,Gharbia,A+,7
+2025-06-11,Alexandria,O-,4
+2025-06-12,Dakahlia,O-,5
+2025-06-13,Gharbia,O-,10
+2025-06-14,Gharbia,A-,9
+2025-06-15,Kafr El Sheikh,O+,3
+2025-06-16,Alexandria,AB+,4
+2025-06-17,Giza,A-,3
+2025-06-18,Giza,AB+,12
+2025-06-19,Giza,B-,5
+2025-06-20,Gharbia,AB-,7
+2025-06-21,Giza,A+,9
+2025-06-22,Dakahlia,AB+,1
+2025-06-23,Gharbia,AB-,7
+2025-06-24,Kafr El Sheikh,AB-,12
+2025-06-25,Giza,O+,8
+2025-06-26,Alexandria,AB-,3
+2025-06-27,Gharbia,AB-,4
+2025-06-28,Giza,A+,7
+2025-06-29,Giza,O+,4
+2025-06-30,Dakahlia,B+,1
+2025-07-01,Cairo,AB+,3
+2025-07-02,Giza,AB+,7
+2025-07-03,Dakahlia,O-,9
+2025-07-04,Dakahlia,B+,8
+2025-07-05,Cairo,B-,2
+2025-07-06,Gharbia,O+,9
+2025-07-07,Kafr El Sheikh,AB-,8
+2025-07-08,Cairo,B+,6
+2025-07-09,Gharbia,B+,3
+2025-07-10,Giza,O+,6
+2025-07-11,Giza,O+,2
+2025-07-12,Giza,A-,9
+2025-07-13,Gharbia,B-,3
+2025-07-14,Cairo,O+,8
+2025-07-15,Cairo,A+,5
+2025-07-16,Alexandria,A-,9
+2025-07-17,Gharbia,A-,1
+2025-07-18,Giza,AB+,2
+2025-07-19,Dakahlia,B-,9
+2025-07-20,Dakahlia,B+,8
+2025-07-21,Gharbia,A-,2
+2025-07-22,Alexandria,AB-,7
+2025-07-23,Alexandria,O+,15
+2025-07-24,Kafr El Sheikh,A-,5
+2025-07-25,Kafr El Sheikh,AB-,1
+2025-07-26,Alexandria,O+,6
+2025-07-27,Dakahlia,AB+,6
+2025-07-28,Gharbia,AB+,2
+2025-07-29,Alexandria,A-,6
+2025-07-30,Giza,O-,12
+2025-07-31,Dakahlia,O-,6
+2025-08-01,Cairo,AB-,4
+2025-08-02,Kafr El Sheikh,O-,4
+2025-08-03,Gharbia,AB+,4
+2025-08-04,Giza,AB-,7
+2025-08-05,Kafr El Sheikh,O+,4
+2025-08-06,Cairo,A+,7
+2025-08-07,Cairo,A-,3
+2025-08-08,Cairo,A-,6
+2025-08-09,Alexandria,AB-,0
+2025-08-10,Dakahlia,A-,6
+2025-08-11,Dakahlia,B-,3
+2025-08-12,Gharbia,B-,5
+2025-08-13,Gharbia,AB-,4
+2025-08-14,Cairo,AB+,7
+2025-08-15,Kafr El Sheikh,A+,6
+2025-08-16,Kafr El Sheikh,AB-,3
+2025-08-17,Dakahlia,B-,5
+2025-08-18,Alexandria,A+,6
+2025-08-19,Dakahlia,AB-,7
+2025-08-20,Alexandria,B+,6
+2025-08-21,Gharbia,B-,5
+2025-08-22,Giza,O-,5
+2025-08-23,Gharbia,A-,11
+2025-08-24,Cairo,O-,7
+2025-08-25,Dakahlia,B-,4
+2025-08-26,Giza,O-,10
+2025-08-27,Cairo,O+,6
+2025-08-28,Cairo,O+,1
+2025-08-29,Cairo,A-,6
+2025-08-30,Kafr El Sheikh,O+,4
+2025-08-31,Gharbia,B+,3
+2025-09-01,Cairo,O-,5
+2025-09-02,Giza,O-,5
+2025-09-03,Giza,AB+,5
+2025-09-04,Giza,O-,2
+2025-09-05,Giza,AB+,5
+2025-09-06,Gharbia,A+,3
+2025-09-07,Gharbia,O+,4
+2025-09-08,Gharbia,AB+,9
+2025-09-09,Alexandria,A+,5
+2025-09-10,Dakahlia,A+,5
+2025-09-11,Cairo,AB-,5
+2025-09-12,Gharbia,O-,1
+2025-09-13,Cairo,AB-,5
+2025-09-14,Kafr El Sheikh,B-,6
+2025-09-15,Dakahlia,B+,5
+2025-09-16,Dakahlia,B-,5
+2025-09-17,Kafr El Sheikh,B+,5
+2025-09-18,Gharbia,B+,5
+2025-09-19,Kafr El Sheikh,A-,2
+2025-09-20,Kafr El Sheikh,AB+,4
+2025-09-21,Gharbia,A-,3
+2025-09-22,Cairo,A-,1
+2025-09-23,Cairo,B+,5
+2025-09-24,Dakahlia,O+,5
+2025-09-25,Giza,AB+,1
+2025-09-26,Giza,B-,3
+2025-09-27,Gharbia,AB+,5
+2025-09-28,Kafr El Sheikh,AB+,7
+2025-09-29,Gharbia,B-,5
+2025-09-30,Cairo,O+,3
+2025-10-01,Giza,AB-,5
+2025-10-02,Cairo,A-,3
+2025-10-03,Cairo,O+,3
+2025-10-04,Cairo,A-,5
+2025-10-05,Giza,A+,3
+2025-10-06,Gharbia,B-,4
+2025-10-07,Kafr El Sheikh,B-,4
+2025-10-08,Giza,O+,4
+2025-10-09,Gharbia,AB-,3
+2025-10-10,Dakahlia,A+,5
+2025-10-11,Gharbia,B-,5
+2025-10-12,Kafr El Sheikh,O+,5
+2025-10-13,Alexandria,AB-,5
+2025-10-14,Alexandria,AB+,7
+2025-10-15,Giza,AB+,3
+2025-10-16,Cairo,AB+,6
+2025-10-17,Cairo,A-,3
+2025-10-18,Gharbia,AB+,4
+2025-10-19,Cairo,AB-,5
+2025-10-20,Gharbia,A+,6
+2025-10-21,Kafr El Sheikh,AB-,3
+2025-10-22,Alexandria,A-,5
+2025-10-23,Giza,A+,6
+2025-10-24,Gharbia,O+,3
+2025-10-25,Dakahlia,B-,1
+2025-10-26,Kafr El Sheikh,B-,4
+2025-10-27,Dakahlia,AB+,4
+2025-10-28,Cairo,AB+,4
+2025-10-29,Gharbia,AB+,8
+2025-10-30,Dakahlia,O-,6
+2025-10-31,Cairo,AB-,4
+2025-11-01,Alexandria,A+,5
+2025-11-02,Dakahlia,A-,2
+2025-11-03,Gharbia,B-,3
+2025-11-04,Giza,B-,2
+2025-11-05,Cairo,B+,0
+2025-11-06,Alexandria,A-,6
+2025-11-07,Dakahlia,A+,6
+2025-11-08,Giza,A-,4
+2025-11-09,Cairo,O-,2
+2025-11-10,Cairo,B-,5
+2025-11-11,Cairo,O-,5
+2025-11-12,Alexandria,B+,2
+2025-11-13,Alexandria,B+,8
+2025-11-14,Giza,B-,5
+2025-11-15,Gharbia,O-,4
+2025-11-16,Giza,AB+,3
+2025-11-17,Giza,A+,5
+2025-11-18,Alexandria,B+,3
+2025-11-19,Giza,O-,1
+2025-11-20,Gharbia,A-,5
+2025-11-21,Kafr El Sheikh,O+,7
+2025-11-22,Alexandria,O-,5
+2025-11-23,Kafr El Sheikh,A-,4
+2025-11-24,Cairo,AB+,3
+2025-11-25,Kafr El Sheikh,AB+,5
+2025-11-26,Giza,O+,5
+2025-11-27,Dakahlia,O+,1
+2025-11-28,Gharbia,A+,4
+2025-11-29,Cairo,B+,4
+2025-11-30,Dakahlia,O-,3
+2025-12-01,Cairo,B+,6
+2025-12-02,Cairo,A-,3
+2025-12-03,Giza,AB-,2
+2025-12-04,Dakahlia,A-,4
+2025-12-05,Giza,A-,3
+2025-12-06,Kafr El Sheikh,O+,2
+2025-12-07,Alexandria,A+,6
+2025-12-08,Cairo,O-,7
+2025-12-09,Kafr El Sheikh,A-,7
+2025-12-10,Kafr El Sheikh,A+,6
+2025-12-11,Alexandria,AB-,5
+2025-12-12,Kafr El Sheikh,A-,2
+2025-12-13,Dakahlia,B+,6
+2025-12-14,Kafr El Sheikh,B+,3
+2025-12-15,Cairo,AB+,3
+2025-12-16,Gharbia,B-,4
+2025-12-17,Dakahlia,A-,3
+2025-12-18,Giza,A-,8
+2025-12-19,Kafr El Sheikh,A-,7
+2025-12-20,Kafr El Sheikh,A+,11
+2025-12-21,Gharbia,AB-,1
+2025-12-22,Dakahlia,B-,9
+2025-12-23,Gharbia,A+,4
+2025-12-24,Dakahlia,B+,3
+2025-12-25,Kafr El Sheikh,AB-,4
+2025-12-26,Dakahlia,B+,1
+2025-12-27,Alexandria,B-,6
+2025-12-28,Dakahlia,AB-,5
+2025-12-29,Alexandria,AB-,4
+2025-12-30,Dakahlia,AB-,2
+2025-12-31,Gharbia,B-,3
